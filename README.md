@@ -9,7 +9,7 @@ Building web applications • Exploring AI • Creating useful automation
 <br>
 
 [🌐 Portfolio](https://algipratamasasra.github.io/) •
-[💼 LinkedIn](YOUR_LINKEDIN_URL)
+[💼 LinkedIn](https://www.linkedin.com/in/algi-pratama-sasra-7a23432b2/)
 
 </div>
 
