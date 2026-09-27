@@ -9,8 +9,8 @@ and creating useful automation.
 
 <br>
 
-[🌐 Portfolio](YOUR_PORTFOLIO_URL) •
-[💼 LinkedIn](YOUR_LINKEDIN_URL)
+[🌐 Portfolio](https://algipratamasasra.github.io/) •
+[💼 LinkedIn](www.linkedin.com/in/algi-pratama-sasra-7a23432b2)
 
 </div>
 
