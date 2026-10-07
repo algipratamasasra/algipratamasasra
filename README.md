@@ -2,7 +2,7 @@
 
 # Hi, I'm Algi Pratama Sasra 👋
 
-### Junior Developer & IT Engineer
+### Junior web Developer & IT Engineer
 
 Building web applications • Exploring AI • Creating useful automation
 
